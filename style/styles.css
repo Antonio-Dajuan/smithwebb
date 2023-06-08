@@ -1,0 +1,63 @@
+html{
+    width: 100%;
+    height: 100%;
+    font-family: Georgia, serif,sans-serif,'Times New Roman', Times;
+    background-color: #ffb366;
+    background-repeat: no-repeat;
+}
+    
+
+
+
+body{
+    width: 90%;
+    margin: auto;
+    height: 90%;
+}
+
+.menu {
+    background-color: #2c1bbe;
+    overflow: hidden;
+  }
+
+  .menu a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    position: static;
+  }
+
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.central {
+    color: #b3b300;
+    font-style: italic;
+}
+.tech{
+    color:  #0000cc;
+    font-style: italic;
+}
+
+.clear{
+    float: clear;
+}
+
+.img:hover{
+    width: 70%;
+    height: 70%;    
+}
+
+
+
+
+
